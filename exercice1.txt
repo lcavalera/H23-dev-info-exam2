@@ -20,7 +20,11 @@ git branch dev
 
 git checkout dev
 
+git add Cheval.cs
+
 git commit -m "maj classe Cheval"
+
+git add Animal.cs
 
 git commit -m "maj classe Animal"
 
